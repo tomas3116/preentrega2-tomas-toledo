@@ -1,0 +1,56 @@
+// _ProductCards.scss
+
+.product-cards {
+    display: flex;
+    justify-content: space-around; // Alinea las cartas horizontalmente
+    flex-wrap: wrap; // Permite que las cartas se envuelvan en varias filas
+    margin-top: 50px; // Separación del Hero Banner
+    font-family: 'Orbitron', sans-serif;
+
+    .card {
+        background-color: #fff;
+        border: 2px solid #9d50bb; // Marco de la carta
+        border-radius: 10px;
+        width: 200px; // Ancho fijo para todas las cartas
+        margin: 20px; // Espaciado entre las cartas
+        text-align: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease; // Transición suave para hover
+        display: flex; // Usar flexbox para alinear elementos
+        flex-direction: column; // Alinear elementos en columna
+        justify-content: space-between; // Espacio entre los elementos
+
+        // Estilo de la imagen
+        img {
+            width: 100%; // Asegura que la imagen ocupe todo el ancho de la carta
+            height: 200px; // Establecer una altura fija para todas las imágenes
+            object-fit: cover; // Mantiene la proporción de la imagen
+            border-radius: 10px 10px 0 0; // Bordes redondeados en la parte superior
+        }
+
+        h2 {
+            color: #000;
+            margin: 10px 0;
+        }
+
+        .btn {
+            background-color: #9d50bb;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+
+            &:hover {
+                background-color: #ff0080; // Cambia el color al hacer hover
+            }
+        }
+
+        // Efecto hover para la carta
+        &:hover {
+            box-shadow: 0 4px 10px rgba(255, 0, 128, 0.5); // Sombra fucsia solo por abajo
+            border: 2px solid black; // Marco negro al hacer hover
+        }
+    }
+}

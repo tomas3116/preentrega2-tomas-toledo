@@ -1,0 +1,17 @@
+.cart-widget {
+    font-size: 2rem; 
+    color: #ff007f; 
+    display: flex;
+    cursor: pointer;
+    transition: transform 0.3s ease, color 0.3s ease; 
+    padding: 20px 40px;
+    &:hover {
+      transform: scale(1.1); 
+      color: #ff1493; 
+    }
+  
+    i {
+      font-size: inherit; 
+    }
+  }
+  

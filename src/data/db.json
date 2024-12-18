@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "title": "Samsung Galaxy S23 Ultra",
+        "model": "SM-S918B",
+        "description": "Pantalla Dynamic AMOLED de 6.8 pulgadas con tasa de refresco adaptativa hasta 120 Hz. Procesador Snapdragon 8 Gen 2. Cámara cuádruple de 200 MP. Batería de 5,000 mAh con carga rápida de 45W.",
+        "price": 1199,
+        "discount": 0,
+        "imageFile": "samsung_galaxy_s23_ultra.jpg",
+        "category": "Celulares"
+    },
+    {
+        "id": 2,
+        "title": "Xiaomi 13 Pro",
+        "model": "Xiaomi13Pro",
+        "description": "Pantalla AMOLED de 6.73 pulgadas con tasa de refresco de 120 Hz. Procesador Snapdragon 8 Gen 2. Cámara triple de 50 MP con lentes Leica. Batería de 4,820 mAh con carga rápida de 120W.",
+        "price": 999,
+        "discount": 0,
+        "imageFile": "xiaomi_13_pro.jpg",
+        "category": "Celulares"
+    },
+    {
+        "id": 3,
+        "title": "Google Pixel 8 Pro",
+        "model": "Pixel8Pro",
+        "description": "Pantalla LTPO OLED de 6.7 pulgadas con tasa de refresco de 120 Hz. Procesador Google Tensor G3. Cámara triple de 50 MP. Batería de 5,050 mAh con carga rápida de 30W.",
+        "price": 899,
+        "discount": 0,
+        "imageFile": "google_pixel_8_pro.jpg",
+        "category": "Celulares"
+    },
+    {
+        "id": 4,
+        "title": "OnePlus 12",
+        "model": "OnePlus12",
+        "description": "Pantalla Fluid AMOLED de 6.7 pulgadas con tasa de refresco de 120 Hz. Procesador Snapdragon 8 Gen 3. Cámara triple de 50 MP. Batería de 5,400 mAh con carga rápida de 100W.",
+        "price": 899,
+        "discount": 0,
+        "imageFile": "oneplus_12.jpg",
+        "category": "Celulares"
+    },
+    {
+        "id": 5,
+        "title": "iPhone 16 Pro Max",
+        "model": "iPhone16ProMax",
+        "description": "Pantalla OLED de 6.9 pulgadas. Procesador Apple A18 Pro. Cámara cuádruple de 48 MP. Batería de 4,685 mAh con carga rápida de 30W.",
+        "price": 1469,
+        "discount": 0,
+        "imageFile": "iphone_16_pro_max.jpg",
+        "category": "Celulares"
+    },
+    {
+        "id": 6,
+        "title": "Samsung Galaxy Z Fold 5",
+        "model": "SM-F946B",
+        "description": "Pantalla Dynamic AMOLED de 7.6 pulgadas al desplegarse, con tasa de refresco de 120 Hz. Procesador Snapdragon 8 Gen 2. Cámara triple de 50 MP. Batería de 4,400 mAh con carga rápida de 25W.",
+        "price": 1799,
+        "discount": 0,
+        "imageFile": "samsung_galaxy_z_fold_5.jpg",
+        "category": "Celulares"
+    },
+    {
+        "id": 7,
+        "title": "iPad Pro de 11 pulgadas (6.ª generación)",
+        "model": "iPadPro11",
+        "description": " Pantalla Ultra Retina XDR de 11 pulgadas con tecnología OLED en tándem. Chip M4 de Apple con CPU de 9 núcleos y GPU de 10 núcleos.",
+        "price": 1199,
+        "discount": 0,
+        "category": "iPads"
+    },
+    {
+        "id": 8,
+        "title": "iPad Pro de 13 pulgadas (6.ª generación)",
+        "model": "iPadPro13",
+        "description": "Pantalla Ultra Retina XDR de 13 pulgadas con tecnología OLED en tándem. Chip M4 de Apple con CPU de 10 núcleos y GPU de 10 núcleos.",
+        "price": 1399,
+        "discount": 0,
+        "category": "iPads"
+    },
+    {
+        "id": 9,
+        "title": "iPad Air (5.ª generación)",
+        "model": "iPadAir5",
+        "description": "Pantalla Liquid Retina de 10.9 pulgadas. Chip M1 de Apple. Cámara trasera de 12 MP y frontal de 12 MP con Center Stage.",
+        "price": 599,
+        "discount": 0,
+        "category": "iPads"
+    },
+    {
+        "id": 10,
+        "title": "iPad (10.ª generación)",
+        "model": "iPad10",
+        "description": "Pantalla Liquid Retina de 10.9 pulgadas. Chip A14 Bionic. Cámara trasera de 12 MP y frontal de 12 MP.",
+        "price": 449,
+        "discount": 0,
+        "category": "iPads"
+    },
+    {
+        "id": 11,
+        "title": "iPad Mini (6.ª generación)",
+        "model": "iPadMini6",
+        "description": "Pantalla Liquid Retina de 8.3 pulgadas. Chip A15 Bionic. Cámara trasera de 12 MP y frontal de 12 MP.",
+        "price": 499,
+        "discount": 0,
+        "category": "iPads"
+    },
+    {
+        "id": 12,
+        "title": "iPad Pro de 12.9 pulgadas (6.ª generación)",
+        "model": "iPadPro12.9",
+        "description": "Pantalla Liquid Retina XDR de 12.9 pulgadas. Chip M1 de Apple. Cámara gran angular de 12 MP y ultra gran angular de 10 MP.",
+        "price": 1999,
+        "discount": 0,
+        "category": "iPads"
+    },
+    {
+        "id": 13,
+        "title": "Apple iPad Pro (11 pulgadas, 2022)",
+        "model": "iPadPro11",
+        "description": "Pantalla Liquid Retina de 11 pulgadas. Chip M1 de Apple. Ideal para profesionales y creativos.",
+        "price": 1199,
+        "discount": 0,
+        "category": "Tablets"
+    },
+    {
+        "id": 14,
+        "title": "Apple iPad Pro (12.9 pulgadas, 2022)",
+        "model": "iPadPro12.9",
+        "description": "Pantalla Liquid Retina XDR de 12.9 pulgadas. Chip M1 de Apple. Ideal para profesionales y creativos.",
+        "price": 1999,
+        "discount": 0,
+        "category": "Tablets"
+    },
+    {
+        "id": 15,
+        "title": "Samsung Galaxy Tab S9",
+        "model": "GalaxyTabS9",
+        "description": "Pantalla Dynamic AMOLED 2X de 11 pulgadas. Procesador Snapdragon 8 Gen 2. Ideal para entretenimiento y productividad.",
+        "price": 970,
+        "discount": 0,
+        "category": "Tablets"
+    },
+    {
+        "id": 16,
+        "title": "Samsung Galaxy Tab S9+",
+        "model": "GalaxyTabS9Plus",
+        "description": "Pantalla Dynamic AMOLED 2X de 12.4 pulgadas. Procesador Snapdragon 8 Gen 2. Ideal para entretenimiento y productividad.",
+        "price": 1199,
+        "discount": 0,
+        "category": "Tablets"
+    },
+    {
+        "id": 17,
+        "title": "Lenovo Tab P11 Pro",
+        "model": "LenovoTabP11Pro",
+        "description": "Pantalla OLED de 11.5 pulgadas con resolución 2K. Procesador Snapdragon 730G. Ideal para entretenimiento y tareas diarias.",
+        "price": 499,
+        "discount": 0,
+        "category": "Tablets"
+    },
+    {
+        "id": 18,
+        "title": "Microsoft Surface Pro 7",
+        "model": "SurfacePro7",
+        "description": "Pantalla de 12.3 pulgadas. Procesador Intel Core i5. Ideal para usuarios que buscan un dispositivo versátil.",
+        "price": 749,
+        "discount": 0,
+        "category": "Tablets"
+    },
+    {
+        "id": 19,
+        "title": "Apple MacBook Air (M2, 2022)",
+        "model": "MacBookAirM2",
+        "description": "Pantalla Retina de 13.6 pulgadas. Chip M2 de Apple. Hasta 18 horas de batería.",
+        "price": 1199,
+        "discount": 0,
+        "category": "Notebooks"
+    },
+    {
+        "id": 20,
+        "title": "Dell XPS 13 (2022)",
+        "model": "DellXPS13",
+        "description": "Pantalla InfinityEdge de 13.4 pulgadas. Procesador Intel Core i7 de 12.ª generación. Diseño ultradelgado y ligero.",
+        "price": 1399,
+        "discount": 0,
+        "category": "Notebooks"
+    },
+    {
+        "id": 21,
+        "title": "HP Spectre x360 (2022)",
+        "model": "HPSpectreX360",
+        "description": "Pantalla táctil de 13.3 pulgadas. Procesador Intel Core i7 de 12.ª generación. Diseño convertible 2 en 1.",
+        "price": 1499,
+        "discount": 0,
+        "category": "Notebooks"
+    },
+    {
+        "id": 22,
+        "title": "Lenovo ThinkPad X1 Carbon Gen 10",
+        "model": "ThinkPadX1Carbon",
+        "description": "Pantalla de 14 pulgadas. Procesador Intel Core i7 de 12.ª generación. Ideal para profesionales.",
+        "price": 1799,
+        "discount": 0,
+        "category": "Notebooks"
+    },
+    {
+        "id": 23,
+        "title": "Asus ZenBook 14 (2022)",
+        "model": "AsusZenBook14",
+        "description": "Pantalla de 14 pulgadas. Procesador Intel Core i7 de 12.ª generación. Diseño ultradelgado y ligero.",
+        "price": 1099,
+        "discount": 0,
+        "category": "Notebooks"
+    },
+    {
+        "id": 24,
+        "title": "Microsoft Surface Laptop 5",
+        "model": "SurfaceLaptop5",
+        "description": "Pantalla de 13.5 pulgadas. Procesador Intel Core i5 de 12.ª generación. Diseño elegante y portátil.",
+        "price": 999,
+        "discount": 0,
+        "category": "Notebooks"
+    },
+    {
+        "id": 25,
+        "title": "Samsung QLED 4K (2022)",
+        "model": "QN90B",
+        "description": "Pantalla QLED de 55 pulgadas. Resolución 4K. Tecnología Quantum HDR. Compatible con Alexa y Google Assistant.",
+        "price": 1299,
+        "discount": 0,
+        "category": "Smart TVs"
+    },
+    {
+        "id": 26,
+        "title": "LG OLED C2 (2022)",
+        "model": "OLED55C2PUA",
+        "description": "Pantalla OLED de 55 pulgadas. Resolución 4K. Procesador α9 Gen 5 AI. Compatible con Dolby Vision y Dolby Atmos.",
+        "price": 1499,
+        "discount": 0,
+        "category": "Smart TVs"
+    },
+    {
+        "id": 27,
+        "title": "Sony Bravia XR A80K (2022)",
+        "model": "XR55A80K",
+        "description": "Pantalla OLED de 55 pulgadas. Resolución 4K. Procesador Cognitive Processor XR. Compatible con Google TV.",
+        "price": 1799,
+        "discount": 0,
+        "category": "Smart TVs"
+    },
+    {
+        "id": 28,
+        "title": "TCL 6-Series R646 (2022)",
+        "model": "R646",
+        "description": "Pantalla QLED de 55 pulgadas. Resolución 4K. Tecnología Mini-LED. Compatible con Roku TV.",
+        "price": 999,
+        "discount": 0,
+        "category": "Smart TVs"
+    },
+    {
+        "id": 29,
+        "title": "Vizio P-Series Quantum (2022)",
+        "model": "P55QX-H1",
+        "description": "Pantalla QLED de 55 pulgadas. Resolución 4K. Tecnología Quantum Color. Compatible con Smartcast.",
+        "price": 1099,
+        "discount": 0,
+        "category": "Smart TVs"
+    },
+    {
+        "id": 30,
+        "title": "Hisense U8H (2022)",
+        "model": "U8H",
+        "description": "Pantalla QLED de 55 pulgadas. Resolución 4K. Tecnología Mini-LED. Compatible con Google Assistant.",
+        "price": 899,
+        "discount": 0,
+        "category": "Smart TVs"
+    }
+]

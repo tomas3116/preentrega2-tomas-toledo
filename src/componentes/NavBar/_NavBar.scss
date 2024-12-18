@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+.navbar {
+    background-color: #000;
+
+    .navbar-brand img {
+        width: 90px; 
+        height: 90px;
+        border-radius: 50%; 
+        border: 2px solid #9d50bb; 
+        transition: transform 0.3s ease;
+
+        &:hover {
+            transform: scale(1.1); 
+        }
+    }
+
+    .navbar-nav {
+        @media (min-width: 992px) {
+            display: flex;
+            justify-content: center; 
+            width: 100%;
+        }
+
+        .nav-link {
+            font-family: "Orbitron", sans-serif; 
+            font-size: 1rem;
+            font-weight: bold;
+            color: transparent;
+            background: linear-gradient(90deg, #9d50bb, #ff0080); 
+            -webkit-background-clip: text; 
+            background-clip: text;
+            text-transform: uppercase;
+            text-align: center; 
+            margin: 0 15px;
+            transition: all 0.3s ease;
+
+            &:hover {
+                color: #ff0080; 
+                text-shadow: 0 0 8px #ff0080; 
+                transform: scale(1.1); 
+            }
+            .Cartwidget{
+                color: red($color: #000000)
+            }
+        }
+    }
+}
